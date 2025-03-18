@@ -17,6 +17,8 @@ List of IT tools in one place for troubleshooting computers.
 # Hard Drive Tools
 **AOMEI Partition Assistant Standard** https://www.aomeitech.com/download.html
 
+**CCLeaner**
+
 **Crystal Disk Mark** https://crystalmark.info/en/software/crystaldiskmark/
 
 **HD Sentinel**   https://www.hdsentinel.com/
