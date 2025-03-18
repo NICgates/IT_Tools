@@ -8,6 +8,12 @@ List of IT tools in one place for troubleshooting computers.
 
 **Ventoy** https://ventoy.net/en/download.html
 
+# Browser Extensions
+**AdBlockPlus** https://adblockplus.org/
+
+**Noscript** https://noscript.net/
+
+
 # Cloning Tools
 **Samsung Magician** https://semiconductor.samsung.com/consumer-storage/magician/
 
