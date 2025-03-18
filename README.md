@@ -36,6 +36,8 @@ List of IT tools in one place for troubleshooting computers.
 
 **Putty** https://www.putty.org/
 
+**Wireshark** https://www.wireshark.org/download.html
+
 # Security Tools 
 **Virus Total** 
 
