@@ -2,22 +2,22 @@
 List of IT tools in one place for troubleshooting computers. 
 
 # Bootable Tools
-**Easy2Boot** 
+**Easy2Boot** https://easy2boot.xyz/download/
 
 **UBCD**   https://www.ultimatebootcd.com/
 
-**Ventoy**
+**Ventoy** https://ventoy.net/en/download.html
 
 # Cloning Tools
-**Samsung Magician**
+**Samsung Magician** https://semiconductor.samsung.com/consumer-storage/magician/
 
-**Acronis for Crucial**
+**Acronis for Crucial** https://www.acronis.com/en-gb/promotion/crucialhd-download/
 
 
 # Hard Drive Tools
 **AOMEI Partition Assistant Standard** https://www.aomeitech.com/download.html
 
-**CCLeaner**
+**CCLeaner** https://www.ccleaner.com/
 
 **Crystal Disk Mark** https://crystalmark.info/en/software/crystaldiskmark/
 
@@ -25,20 +25,18 @@ List of IT tools in one place for troubleshooting computers.
 
 **HWinfo**   https://www.hwinfo.com/  
 
-**Patch Cleaner** 
+**Patch Cleaner** https://sourceforge.net/projects/patchcleaner/
 
-**Recuva** 
+**Recuva** https://www.ccleaner.com/recuva/download
 
 **Tree Size**   https://www.jam-software.com/treesize_free
 
 # Network Tools
 **NMAP**   https://nmap.org/download#windows
 
-**Putty** 
+**Putty** https://www.putty.org/
 
-# Security Tools
-**Kaspersk Rescue Disk**
-
+# Security Tools 
 **Virus Total** 
 
 **Hybrid Analysis**
